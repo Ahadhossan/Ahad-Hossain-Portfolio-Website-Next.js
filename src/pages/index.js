@@ -1,7 +1,7 @@
 import Layout from "@/components/Layout";
 import Head from "next/head";
 import Image from "next/image";
-import profilePic from "../../public/images/profile/developer-pic-1.png";
+import profilePic from "../../public/images/profile/Ahad 1.png";
 import AnimatedText from "@/components/AnimatedText";
 import Link from "next/link";
 import { LinkArrow } from "@/components/icons";
@@ -26,7 +26,7 @@ export default function Home() {
                 alt="CodeAhad"
                 className="w-full h-auto lg:hidden md:inline-block md:w-full lg:text-center"
                 priority
-                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 50vw"
+                sizes="(max-width: 768px) 100vw, (max-width: 1100px) 30vw, 40vw"
               />
             </div>
             <div className="w-1/2 flex flex-col items-center self-center lg:w-full">
