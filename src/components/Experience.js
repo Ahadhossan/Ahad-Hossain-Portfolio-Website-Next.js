@@ -54,13 +54,13 @@ const Experience = () => {
           className="absolute left-9 top-0 w-[4px] h-full bg-dark origin-top dark:bg-light md:w-[2px] md:left-[30px] xs:left-[20px]"
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
-            <Details
-            position="Intern"
+          <Details
+            position="React.js Developer"
             company="imranslab"
             companyLink="#"
             time="2025"
             address="Dhaka, Bangladesh"
-            work="React.js Developer"
+            work="Worked on a team responsible for developing a new websit & Frontend infrastructure to support the team."
           />
           <Details
             position="Intern"
@@ -69,14 +69,6 @@ const Experience = () => {
             time="2022"
             address="Dhaka, Bangladesh"
             work="Worked on a team responsible for developing a new Web Developer feature that allowed users to create and share short-form video content, including designing and implementing a new user interface and developing the backend & Frontend infrastructure to support the feature."
-          />
-          <Details
-            position="CRO"
-            company="Nation It Limited"
-            companyLink="#"
-            time="2021"
-            address="Dhaka, Bangladesh"
-            work="Worked on a team responsible for developing Marketing, including implementing new features such as product recommendations and user reviews, and optimizing the Digital Marketing performance and reliability."
           />
           <Details
             position="Digital Marketing"
