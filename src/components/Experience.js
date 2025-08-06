@@ -55,7 +55,7 @@ const Experience = () => {
         />
         <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
           <Details
-            position="React.js Developer"
+            position="Juunior Web Developer"
             company="imranslab"
             companyLink="#"
             time="2025"
@@ -85,3 +85,4 @@ const Experience = () => {
 };
 
 export default Experience;
+
